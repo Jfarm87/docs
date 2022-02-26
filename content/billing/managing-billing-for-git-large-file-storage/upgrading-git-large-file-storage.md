@@ -1,3 +1,5 @@
+[cannibusiness.docx](https://github.com/github/docs/files/8147641/cannibusiness.docx)
+![repository-open-graph-template](https://user-images.githubusercontent.com/93606709/155861389-92c3b9ba-fddd-4fd0-a9a4-858f084275ed.png)
 ---
 title: Upgrading Git Large File Storage
 intro: 'You can purchase additional data packs to increase your monthly bandwidth quota and total storage capacity for {% data variables.large_files.product_name_short %}.'
